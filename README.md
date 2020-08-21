@@ -1,6 +1,5 @@
 ## Hi, my name is Francisco Emanoel
 
-😃👨‍💻👨‍💻
 
 
 
