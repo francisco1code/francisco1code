@@ -5,7 +5,12 @@
 ## Hi, my name is Francisco Emanoel
 
 
-<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+<a href="https://github.com/francisco1code/github-readme-stats">
+ <img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="30" height="30"/>
+</a>
+<a href="https://github.com/francisco1code/github-readme-stats">
+<img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="30" height="30"/> 
+</a>
 
  
 
