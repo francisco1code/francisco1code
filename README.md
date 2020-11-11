@@ -1,6 +1,11 @@
+
+
 ## Hi, my name is Francisco Emanoel
 
 
+<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif" width="25" height="25"/> 
+<img src="https://roboticascgames.files.wordpress.com/2017/08/giphy.gif?w=1920&h=768&crop=1"width="700" height="400"/>
+ 
 
 
 
@@ -16,3 +21,4 @@
 </a>
 
 
+ 
