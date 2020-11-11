@@ -1,4 +1,4 @@
-<div align='center'><img src="https://roboticascgames.files.wordpress.com/2017/08/giphy.gif?w=1920&h=768&crop=1"width="700" height="400"</div>
+<div align='center'><img src="https://roboticascgames.files.wordpress.com/2017/08/giphy.gif?w=1920&h=768&crop=1"width="900" height="200"</div>
  
 # About me
  
